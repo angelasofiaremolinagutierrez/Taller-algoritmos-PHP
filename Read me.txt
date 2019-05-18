@@ -1,0 +1,4 @@
+Hola profe Carlos
+Aquí esta nuestro trabajo de PHP
+Por favor tenga en cuenta que los ejercicios que estan acompañados de un form.html, debe abrirlos por la parte del archivo de html que remite al ejercicio #.php
+Muchas gracias
